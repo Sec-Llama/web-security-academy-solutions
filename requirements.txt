@@ -1,0 +1,6 @@
+httpx
+playwright
+cryptography
+h2
+websockets
+Pillow
