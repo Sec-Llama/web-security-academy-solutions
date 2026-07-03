@@ -2,7 +2,7 @@
 
 > Full **writeups** *and* runnable **solution scripts** for the PortSwigger Web Security Academy labs — every lab solved, explained, and automated.
 >
-> By **Michael Dahan** — ranked **#38 in the world** on the [PortSwigger Hall of Fame](https://portswigger.net/web-security/hall-of-fame) — founder of **[Sec-Llama Academy](https://academy.sec-llama.com)**.
+> By **Michael Dahan** — ranked **#38 in the world** on the [PortSwigger Hall of Fame](https://portswigger.net/web-security/hall-of-fame) — CEO & Founder of **[Sec-Llama](https://sec-llama.com)** (offensive security firm) and **[KipuCon](https://kipucon.org)** (cybersecurity conference).
 
 **270 writeups · 269 scripts · 32 vulnerability categories.**
 
@@ -68,7 +68,7 @@ python "SQL Injection/01-retrieve-hidden-data.py" https://YOUR-LAB-ID.web-securi
 
 ## About
 
-These solutions are written and maintained by **Michael Dahan**, an active red teamer and founder of **[Sec-Llama Academy](https://academy.sec-llama.com)**. Every writeup is written to the standard of a serious research blog — the reasoning, not just the payload.
+These solutions are written and maintained by **Michael Dahan**, an active red teamer and **CEO & Founder of [Sec-Llama](https://sec-llama.com)** (offensive security firm) and **[KipuCon](https://kipucon.org)** (cybersecurity conference). Every writeup is written to the standard of a serious research blog — the reasoning, not just the payload.
 
 If you're working through these to break into offensive security, Sec-Llama Academy runs a live, hands-on **"zero to junior penetration tester"** program in small cohorts. It starts with a **free live webinar** → **[academy.sec-llama.com](https://academy.sec-llama.com/#webinar)**. More free walkthroughs: **[academy.sec-llama.com/learn](https://academy.sec-llama.com/learn/)**.
 
