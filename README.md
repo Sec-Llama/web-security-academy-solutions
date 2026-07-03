@@ -4,7 +4,7 @@
 >
 > By **Michael Dahan** — ranked **#38 in the world** on the [PortSwigger Hall of Fame](https://portswigger.net/web-security/hall-of-fame) — founder of **[Sec-Llama Academy](https://academy.sec-llama.com)**.
 
-**271 writeups · 269 scripts · 32 vulnerability categories.**
+**270 writeups · 269 scripts · 32 vulnerability categories.**
 
 ---
 
