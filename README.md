@@ -4,7 +4,7 @@
 >
 > By **Michael Dahan** — ranked **#38 in the world** on the [PortSwigger Hall of Fame](https://portswigger.net/web-security/hall-of-fame) — founder of **[Sec-Llama Academy](https://academy.sec-llama.com)**.
 
-**256 writeups · 255 scripts · 30 vulnerability categories.**
+**271 writeups · 269 scripts · 32 vulnerability categories.**
 
 ---
 
@@ -32,36 +32,39 @@ python "SQL Injection/01-retrieve-hidden-data.py" https://YOUR-LAB-ID.web-securi
 
 | Category | Labs |
 |----------|-----:|
-| [Cross-Site Scripting (XSS)](<Cross-Site Scripting (XSS)>) | 30 |
-| [HTTP Request Smuggling](<HTTP Request Smuggling>) | 22 |
-| [SQL Injection](<SQL Injection>) | 18 |
-| [Authentication](<Authentication>) | 14 |
-| [Web Cache Poisoning](<Web Cache Poisoning>) | 13 |
-| [Access Control](<Access Control>) | 13 |
-| [CSRF](<CSRF>) | 12 |
-| [Insecure Deserialization](<Insecure Deserialization>) | 10 |
 | [XXE Injection](<XXE Injection>) | 9 |
-| [JWT](<JWT>) | 8 |
-| [Server-Side Template Injection](<Server-Side Template Injection>) | 7 |
-| [SSRF](<SSRF>) | 7 |
-| [HTTP Host Header Attacks](<HTTP Host Header Attacks>) | 7 |
-| [File Upload](<File Upload>) | 7 |
-| [DOM-Based Vulnerabilities](<DOM-Based Vulnerabilities>) | 7 |
-| [Race Conditions](<Race Conditions>) | 6 |
-| [OAuth](<OAuth>) | 6 |
-| [Directory Traversal](<Directory Traversal>) | 6 |
+| [WebSockets](<WebSockets>) | 3 |
+| [Web LLM Attacks](<Web LLM Attacks>) | 4 |
+| [Web Cache Poisoning](<Web Cache Poisoning>) | 13 |
 | [Web Cache Deception](<Web Cache Deception>) | 5 |
+| [Server-Side Template Injection](<Server-Side Template Injection>) | 7 |
 | [Server-Side Prototype Pollution](<Server-Side Prototype Pollution>) | 5 |
+| [SSRF](<SSRF>) | 7 |
+| [SQL Injection](<SQL Injection>) | 18 |
+| [Race Conditions](<Race Conditions>) | 6 |
 | [OS Command Injection](<OS Command Injection>) | 5 |
+| [OAuth](<OAuth>) | 6 |
+| [NoSQL Injection](<NoSQL Injection>) | 4 |
+| [JWT](<JWT>) | 8 |
+| [Insecure Deserialization](<Insecure Deserialization>) | 10 |
 | [Information Disclosure](<Information Disclosure>) | 5 |
+| [HTTP Request Smuggling](<HTTP Request Smuggling>) | 22 |
+| [HTTP Host Header Attacks](<HTTP Host Header Attacks>) | 7 |
 | [GraphQL](<GraphQL>) | 5 |
+| [File Upload](<File Upload>) | 7 |
+| [Essential Skills](<Essential Skills>) | 2 |
+| [Directory Traversal](<Directory Traversal>) | 6 |
+| [DOM-Based Vulnerabilities](<DOM-Based Vulnerabilities>) | 7 |
+| [Cross-Site Scripting (XSS)](<Cross-Site Scripting (XSS)>) | 30 |
 | [Client-Side Prototype Pollution](<Client-Side Prototype Pollution>) | 5 |
 | [Clickjacking](<Clickjacking>) | 5 |
-| [API Testing](<API Testing>) | 5 |
-| [Web LLM Attacks](<Web LLM Attacks>) | 4 |
-| [NoSQL Injection](<NoSQL Injection>) | 4 |
-| [WebSockets](<WebSockets>) | 3 |
+| [CSRF](<CSRF>) | 12 |
 | [CORS](<CORS>) | 3 |
+| [Business Logic Vulnerabilities](<Business Logic Vulnerabilities>) | 12 |
+| [Authentication](<Authentication>) | 14 |
+| [Access Control](<Access Control>) | 13 |
+| [API Testing](<API Testing>) | 5 |
+
 
 ## About
 
